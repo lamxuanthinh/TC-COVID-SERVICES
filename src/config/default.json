@@ -1,0 +1,13 @@
+{
+    "PMS": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5984,
+        "dbName": "mongodb+srv://luantrum27:htl27062003@tc-covid.arjekut.mongodb.net/tc-covid?retryWrites=true&w=majority"
+      },
+      "credit": {
+        "initialLimit": 100,
+        "initialDays": 1
+      }
+    }
+  }
