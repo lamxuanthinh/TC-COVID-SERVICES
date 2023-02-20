@@ -1,1 +1,1 @@
-![nodejs-reference-architecture_1x](https://user-images.githubusercontent.com/94306642/215249086-cdbbbae6-4e61-4f31-9bc2-57e5684a45bf.png)
+![Integrate+CI+CD](https://user-images.githubusercontent.com/94306642/220106124-dfc4db1c-de1b-4ad3-8729-abb1577a3181.gif)
