@@ -1,1 +1,1 @@
-![Integrate+CI+CD](https://user-images.githubusercontent.com/94306642/220106124-dfc4db1c-de1b-4ad3-8729-abb1577a3181.gif)
+![GPUAccelerating_Featured-Image-1](https://user-images.githubusercontent.com/94306642/220106696-0288e1ee-f1b1-4a70-a9b7-631d98246624.gif)
